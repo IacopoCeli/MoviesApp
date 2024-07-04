@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtdjE6Z7UNLvHA/8UbB/0BOZezf2gMXCLOSGzulI/302hVPD3npGNe/cnUPR8d+EPZonKPEH0al+7uWqKHLVLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iacop\\Documents\\projects\\C#\\IndustrialSoftware_App\\IndustrialSoftware_App\\IndustrialSoftware_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iacop\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
